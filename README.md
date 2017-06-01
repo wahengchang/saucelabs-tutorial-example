@@ -3,7 +3,8 @@ It is a example of node.js e2e test with configuring Sauslabs
 
 ### 1- Get username and accessKey
 
-![screen shot 2017-05-25 at 7 08 37 pm](https://git.corp.yahoo.com/storage/user/23034/files/9fd4bfb0-417d-11e7-8753-adddfa308a76)
+![9fd4bfb0-417d-11e7-8753-adddfa308a76](https://cloud.githubusercontent.com/assets/5538753/26671929/d11c7a10-46e9-11e7-9c58-9d294271e774.jpg)
+
 
 ### 2- Run Node.js script
 
